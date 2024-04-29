@@ -1,4 +1,6 @@
 # 3b.CREATION FOR CHAT USING TCP SOCKETS
+## Name : H Vishinu
+## Reg No : 212223220124
 ## AIM
 To write a python program for creating Chat using TCP Sockets Links.
 ## ALGORITHM:
